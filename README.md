@@ -1,4 +1,4 @@
-# Project-2
+# Project-Two
 
 How can I ensure that my code, program, or software is functional and secure?
 
